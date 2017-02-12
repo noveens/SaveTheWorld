@@ -1,0 +1,102 @@
+###########################################################
+#		                 About The Game                       #
+###########################################################
+
+- The motive of the game is to collect as many grey and black falling blocks and destroying the
+  dangerous (red) blocks.
+
+- The blocks spawn from the top at random positions every second. The blocks
+  can be good blocks (black and grey) or dangerous blocks(red).
+
+- Dangerous Blocks: The blocks coloured red are dangerous blocks.
+  Good Blocks: The blocks coloured black or grey are the good blocks.
+
+- The game also has a lazer that can be used to shoot down the dangerous blocks,
+  but a penalty will NOT be imposed if the good blocks are destroyed.
+
+- There are mirrors in the game that can reflect the lazer shot from the blue-side of it,
+  following normal reflection laws.
+ 
+- You can only shoot until the battery has some charge present. After that you have to leave
+  shooting button to let battery recharge.
+
+- Walls in the game simply absorb the lazer.
+ 
+- There are two buckets coloured black and grey at the bottom of the screen which can be moved 
+  horizontally to collect the similarly coloured falling bricks. Penalty will NOT be imposed
+  if wrong color blocks, except red blocks are collected in wrong buckets.
+  
+- The blocks not collected by any bucket or destroyed by lazer will simply fall.
+
+- The game will never get over, so sit back and enjoy :D
+
+- Hope you like it.
+
+
+
+############################################################
+#		                 Scoring System 			                 #
+############################################################
+
+- Correct Block Collected              : +1
+- Dangerous Block Collected (or) left  : -5
+- Dangerous Block Destroyed            : +2
+
+
+############################################################
+# 		                  Controls			                     #
+############################################################
+
+- Controlling the Cannon
+  * Moving Vertically
+      Keyboard:
+        + Move Up  : w
+        + Move Down: s
+
+  * Rotating Cannon
+      Mouse:
+        + The cursor will determine the angle
+
+  * Shooting
+      Keyboard:
+        + Hold up SpaceBar to shoot from the cannon.
+
+- Controlling the Buckets
+  * Move Left
+      Keyboard:
+        + Black Bucket  :   A
+        + Grey Bucket   :   Left ArrowKey
+      
+      Mouse:
+        + Black Bucket  :   Click on the bucket and move mouse to left.
+        + Grey Bucket   :   Click on the bucket and move mouse to left.
+
+  * Move Right
+      Keyboard:
+        + Black Bucket  :   D
+        + Grey Bucket   :   Right ArrowKey
+
+      Mouse: 
+        + Black Bucket  :   Click on the bucket and move mouse to right.
+        + Grey Bucket   :   Click on the bucket and move mouse to right.
+
+- Miscellaneous
+  * Zoom in
+      Mouse:
+        + Scroll Up
+  
+  * Zoom out
+      Mouse:
+        + Scroll Down
+
+  * Pan Left/Right/Up/Down:
+      Keyboard/Mouse:
+        + RighMouseButton PLUS(+) respective arrowKey to pan in respective direction.
+
+  * Controlling Speed Of Game
+      Keyboard:
+        + Speed Up  : m
+	      + Speed Down: n
+
+
+************************END OF FILE***************************
